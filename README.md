@@ -1,1 +1,1 @@
-# venv_and_jupyter
+# venv and Jupyter
